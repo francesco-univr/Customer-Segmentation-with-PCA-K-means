@@ -1,0 +1,10 @@
+# Escludi file di sistema
+.DS_Store
+Thumbs.db
+
+# Escludi ambienti virtuali
+venv/
+__pycache__/
+
+# Escludi file di configurazione di Jupyter
+.ipynb_checkpoints/
